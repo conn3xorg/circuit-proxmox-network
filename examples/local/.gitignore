@@ -1,0 +1,13 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate*
+lab.auto.tfvars
+id_ed25519
+id_ed25519.pub
+known_hosts
+user-data
+network-config
+seed.img
+disk.qcow2
+serial.log
+vm.pid
